@@ -34,7 +34,7 @@ node index.js
 
 Follow the prompts to select the fields you want to include in the CSV and specify the output file name and path.
 
-### Data Format
+## Data Format
 Ensure that the input data is an array of objects. For example:
 ```javascript
 const data = [
