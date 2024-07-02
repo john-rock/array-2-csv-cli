@@ -1,0 +1,16 @@
+{
+  "name": "array-2-csv",
+  "version": "1.0.0",
+  "description": "Node app that converts an array of objects to a CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Rock",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "inquirer": "^9.3.2"
+  }
+}
