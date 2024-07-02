@@ -1,6 +1,6 @@
 {
   "name": "array-2-csv",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Node app that converts an array of objects to a CSV file",
   "main": "index.js",
   "scripts": {
